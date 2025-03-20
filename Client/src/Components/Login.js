@@ -110,7 +110,7 @@ const Login = () => {
         <form onSubmit={senddata} method="POST" className='p-5 mt-5'>
         <div>
         <div className='img-logo'>
-        <img src={logo2}  alt="" />
+        {/* <img src={logo2}  alt="" /> */}
        </div>
           <h1 className='gcolor mt-4 mb-4'>Log - In</h1>
           </div>

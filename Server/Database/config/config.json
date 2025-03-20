@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Yogesh@123",
+    "database": "TimeManagement",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Yogesh@123",
+    "database": "TimeManagement",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Yogesh@123",
+    "database": "TimeManagement",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
